@@ -124,11 +124,11 @@ function FormClient() {
                 <div className="row"></div>
 
                 <button type="submit" className="btn btn-primary btn-ok">
-                Enviar
-              </button>
-              <button type="submit" className="btn btn-primary btn-cancel">
-                Cancelar
-              </button>
+                  Enviar
+                </button>
+                <a className="btn btn-primary btn-cancel">
+                  Cancelar
+                </a>
               
               </form>
             </div>
